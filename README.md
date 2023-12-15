@@ -1,4 +1,4 @@
-# Project-1
+# Mathematicians Data Analysis
  
  WebApp: https://harishneelam-mathematiciansdata-project1-ffp5zu.streamlit.app/
  - My Goal is to observe the fields of work and professions of Mathematicians who got prestigious medals and Awards in their respective fields.
